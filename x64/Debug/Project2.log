@@ -1,0 +1,5 @@
+﻿  Project2.cpp
+C:\Users\scrap\Downloads\Project2\Project2\Project2.cpp(31,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\scrap\Downloads\Project2\Project2\Project2.cpp(38,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\scrap\Downloads\Project2\Project2\Project2.cpp(206,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Project2.vcxproj -> C:\Users\scrap\Downloads\Project2\x64\Debug\Project2.exe
